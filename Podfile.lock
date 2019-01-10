@@ -1,0 +1,62 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (4.2.1)
+  - BMKLocationKit (1.4.0)
+  - Cartography (3.1.0)
+  - Log (1.0)
+  - MBProgressHUD (1.1.0)
+  - RichEditorView (5.0.0)
+  - "UIColor+FlatColors (0.0.2)"
+  - ZLSwipeableView (0.0.8)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BaiduMapKit
+  - BMKLocationKit
+  - Cartography
+  - Log (~> 1.0)
+  - MBProgressHUD
+  - RichEditorView
+  - "UIColor+FlatColors"
+  - ZLSwipeableView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - BaiduMapKit
+    - BMKLocationKit
+    - Cartography
+    - Log
+    - MBProgressHUD
+    - RichEditorView
+    - "UIColor+FlatColors"
+    - ZLSwipeableView
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BaiduMapKit: b7430823de488bb6d082e4e1d356dadf09d3edb2
+  BMKLocationKit: ca1343eea19b2f2e999d1ad51bd6a1f1220f3456
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+  Log: 5e368c9528db07517d18d2d04ff5fe2b6f5a1e21
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  RichEditorView: 1bbb07b87ca2d479ac29a6877014b38b8df233ef
+  "UIColor+FlatColors": 6c699df7a575281794c688c64cee6c44fd1f93b4
+  ZLSwipeableView: df385760ff4838935cdbcb62878ac5acd7355949
+
+PODFILE CHECKSUM: 1459a841cb5bb3936dc90ece7b087dcb76fd187b
+
+COCOAPODS: 1.5.3

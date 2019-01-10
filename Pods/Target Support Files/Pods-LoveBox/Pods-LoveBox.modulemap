@@ -1,0 +1,6 @@
+framework module Pods_LoveBox {
+  umbrella header "Pods-LoveBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
